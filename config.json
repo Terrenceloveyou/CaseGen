@@ -1,0 +1,9 @@
+{
+	"modules": "all",
+	"specification": "C:\\Users\\HP1\\Desktop\\paper\\vulnerable-petstore\\petstore.json",
+	"dumpsDir": "C:\\Users\\HP1\\Desktop\\paper\\gencase\\dumps\\gen_muti_cases_ds",
+	"reportsDir": "C:\\Users\\HP1\\Desktop\\paper\\gencase\\reports\\ds_muti_reports",
+	"dbPath": "C:\\Users\\HP1\\Desktop\\paper\\gencase\\database.sqlite"
+}
+
+DSAPIKeys
